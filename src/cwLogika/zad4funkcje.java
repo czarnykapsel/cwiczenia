@@ -1,3 +1,5 @@
+package cwLogika;
+
 import java.util.Scanner;
 
 public class zad4funkcje {

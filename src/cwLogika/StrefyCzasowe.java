@@ -1,3 +1,5 @@
+package cwLogika;
+
 public class StrefyCzasowe {
 
     public static void main(String[] args) {

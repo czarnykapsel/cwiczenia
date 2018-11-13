@@ -1,3 +1,5 @@
+package cwLogika;
+
 public class odcinek {
     public static void main(String[] args) {
         double coordinateX1 = 127.89;

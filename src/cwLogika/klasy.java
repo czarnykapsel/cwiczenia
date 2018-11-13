@@ -1,3 +1,5 @@
+package cwLogika;
+
 public class klasy {
 
     public static void main(String[] args) {

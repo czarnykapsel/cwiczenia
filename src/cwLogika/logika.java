@@ -1,3 +1,5 @@
+package cwLogika;
+
 public class logika
 {
     public static void main(String[] args) {
